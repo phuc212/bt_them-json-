@@ -1,0 +1,68 @@
+[
+  {
+    "Averagescorce": 8.65,
+    "Xeploai": "Gioi",
+    "MaHS": 3,
+    "HoTen": "Hoang Duc",
+    "GioiTinh": "Nam",
+    "Lop": "k1020c1",
+    "LisMonHoc": [
+      {
+        "scorename": "Toan",
+        "score": 8.9
+      },
+      {
+        "scorename": "Ly",
+        "score": 7.9
+      },
+      {
+        "scorename": "Hoa",
+        "score": 8.9
+      }
+    ]
+  },
+  {
+    "Averagescorce": 8.425,
+    "Xeploai": "Gioi",
+    "MaHS": 2,
+    "HoTen": "Hoang Ton",
+    "GioiTinh": "Nam",
+    "Lop": "k1020c1",
+    "LisMonHoc": [
+      {
+        "scorename": "Toan",
+        "score": 8.9
+      },
+      {
+        "scorename": "Ly",
+        "score": 7.9
+      },
+      {
+        "scorename": "Hoa",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "Averagescorce": 8.425,
+    "Xeploai": "Gioi",
+    "MaHS": 1,
+    "HoTen": "Hoang Phuc",
+    "GioiTinh": "Nam",
+    "Lop": "k1020c1",
+    "LisMonHoc": [
+      {
+        "scorename": "Toan",
+        "score": 8.9
+      },
+      {
+        "scorename": "Ly",
+        "score": 7.0
+      },
+      {
+        "scorename": "Hoa",
+        "score": 8.9
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+D:\module2\week3\bt_json\bt1\bt1\bin\Debug\netcoreapp3.1\bt1.exe
+D:\module2\week3\bt_json\bt1\bt1\bin\Debug\netcoreapp3.1\bt1.deps.json
+D:\module2\week3\bt_json\bt1\bt1\bin\Debug\netcoreapp3.1\bt1.runtimeconfig.json
+D:\module2\week3\bt_json\bt1\bt1\bin\Debug\netcoreapp3.1\bt1.runtimeconfig.dev.json
+D:\module2\week3\bt_json\bt1\bt1\bin\Debug\netcoreapp3.1\bt1.dll
+D:\module2\week3\bt_json\bt1\bt1\bin\Debug\netcoreapp3.1\bt1.pdb
+D:\module2\week3\bt_json\bt1\bt1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\module2\week3\bt_json\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.csprojAssemblyReference.cache
+D:\module2\week3\bt_json\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.AssemblyInfoInputs.cache
+D:\module2\week3\bt_json\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.AssemblyInfo.cs
+D:\module2\week3\bt_json\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.csproj.CoreCompileInputs.cache
+D:\module2\week3\bt_json\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.csproj.CopyComplete
+D:\module2\week3\bt_json\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.dll
+D:\module2\week3\bt_json\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.pdb
+D:\module2\week3\bt_json\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.genruntimeconfig.cache

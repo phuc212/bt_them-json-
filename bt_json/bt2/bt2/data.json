@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "MaHS": 1,
+      "HoTen": "Hoang Phuc",
+      "GioiTinh": "Nam",
+      "Lop": "k1020c1",
+      "LisMonHoc": [
+        {
+          "scorename": "Toan",
+          "score": 8.9
+        },
+        {
+          "scorename": "Ly",
+          "score": 7
+        },
+        {
+          "scorename": "Hoa",
+          "score": 8.9
+        }
+      ]
+    },
+    {
+      "MaHS": 2,
+      "HoTen": "Hoang Ton",
+      "GioiTinh": "Nam",
+      "Lop": "k1020c1",
+      "LisMonHoc": [
+        {
+          "scorename": "Toan",
+          "score": 8.9
+        },
+        {
+          "scorename": "Ly",
+          "score": 7.9
+        },
+        {
+          "scorename": "Hoa",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "MaHS": 3,
+      "HoTen": "Hoang Duc",
+      "GioiTinh": "Nam",
+      "Lop": "k1020c1",
+      "LisMonHoc": [
+        {
+          "scorename": "Toan",
+          "score": 8.9
+        },
+        {
+          "scorename": "Ly",
+          "score": 7.9
+        },
+        {
+          "scorename": "Hoa",
+          "score": 8.9
+        }
+      ]
+    }
+  ]
+}

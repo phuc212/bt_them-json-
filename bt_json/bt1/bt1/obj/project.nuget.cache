@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0QVsZ+V1KGzjrEsoDYh9jOB5lgYZ6L2WiDxmMKZK7jTL3/zJgJTfa/CO3fgSBiYitojGrmgla0SDf6J112KCWA==",
+  "success": true,
+  "projectFilePath": "D:\\module2\\week3\\bt_json\\bt1\\bt1\\bt1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
